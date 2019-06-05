@@ -1,0 +1,19 @@
+div{
+	background-size:100%;
+	background-color:skyblue;
+}
+.style1{
+	text-align:justify;
+}
+h1{color:orange;}
+
+.pic1{
+	position:absolute;
+	top:200px;
+	left:0px;
+}
+.pic2{
+	position:absolute;
+	top:200px;
+	right:0px;
+}
